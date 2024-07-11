@@ -29,8 +29,8 @@ jobs:
     - name: Start Suhail-Md
     
       env:
-          OWNER_NAME: 
-          OWNER_NUMBER:
+          OWNER_NAME: Miracle Multimedia Bot 
+          OWNER_NUMBER:+263 78 868 1550
           SESSION_ID:
 
       run: npm start
